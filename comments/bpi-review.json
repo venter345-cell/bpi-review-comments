@@ -13,7 +13,25 @@
    "id": "F84KB4ulCUhn",
    "_ntfy": "cRj18hEWfR1C",
    "_time": 1794408670
+  },
+  {
+   "type": "comment",
+   "id": "mwm83sf43d17cj",
+   "src": "site-preview",
+   "page": "/projects/",
+   "path": "#main>2.0.1",
+   "rx": 0.1471,
+   "ry": 0.3551,
+   "px": 0.2151,
+   "py": 0.1152,
+   "dev": "desktop 1466px",
+   "author": "Reviewer",
+   "ts": 1795012577526,
+   "text": "Can we get somebody to do a drone flight for Hanford mall ? I think we can get better images...",
+   "where": "Review site /projects/, Flagship case studies: \"SOLAR PLUS STORAGE MICROGRID Hanford Mall Hanford, CA 2,235.6 kWh Batt...\"",
+   "_ntfy": "pyH3Nr5nhevn",
+   "_time": 1795012577
   }
  ],
- "updated": 1794408681
+ "updated": 1795025041
 }
